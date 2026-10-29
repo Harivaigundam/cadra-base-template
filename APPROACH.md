@@ -296,6 +296,8 @@ acceptance criteria.
 - **Architecture diagram (Mermaid, renders on GitHub):** [`architecture-diagram.md`](./architecture-diagram.md).
 - **Architecture diagram (draw.io, editable):** [`architecture-diagram.drawio`](./architecture-diagram.drawio).
 - **Internet research & architecture comparison:** [`Internet-search.md`](./Internet-search.md).
+- **Solution explanation (full detail: stack, packages, models, dataclasses, policies):** [`src/README.md`](./src/README.md).
+- **Solution entry point (composition root):** [`src/solution.py`](./src/solution.py).
 
 ### Conformance to reference requirements (`reference/design.docx`)
 
